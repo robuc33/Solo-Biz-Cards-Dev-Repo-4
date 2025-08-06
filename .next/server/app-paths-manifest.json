@@ -1,9 +1,7 @@
 {
-  "/card/[cardId]/page": "app/card/[cardId]/page.js",
-  "/page": "app/page.js",
   "/new-onboarding/page": "app/new-onboarding/page.js",
-  "/dashboard/page": "app/dashboard/page.js",
-  "/dashboard/referrals/page": "app/dashboard/referrals/page.js",
+  "/page": "app/page.js",
   "/dashboard/cards/page": "app/dashboard/cards/page.js",
-  "/dashboard/cards/[id]/page": "app/dashboard/cards/[id]/page.js"
+  "/dashboard/cards/[id]/page": "app/dashboard/cards/[id]/page.js",
+  "/dashboard/accessories/page": "app/dashboard/accessories/page.js"
 }

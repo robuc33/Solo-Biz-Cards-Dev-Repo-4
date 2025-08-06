@@ -1,4 +1,4 @@
-// File: D:\Users\robuc\Documents\GitHub\responsive-pulse-view-77\app\new-onboarding\page.tsx
+// File: D:\Users\robuc\Documents\GitHub\Solo-Biz-Cards-Dev-Repo-4\app\new-onboarding\page.tsx
 import * as entry from '../../../../app/new-onboarding/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,4 +1,4 @@
-// File: D:\Users\robuc\Documents\GitHub\responsive-pulse-view-77\app\dashboard\layout.tsx
+// File: D:\Users\robuc\Documents\GitHub\Solo-Biz-Cards-Dev-Repo-4\app\dashboard\layout.tsx
 import * as entry from '../../../../app/dashboard/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
