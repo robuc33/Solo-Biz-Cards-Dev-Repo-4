@@ -1,7 +1,10 @@
 {
   "/new-onboarding/page": "app/new-onboarding/page.js",
-  "/page": "app/page.js",
+  "/dashboard/accessories/page": "app/dashboard/accessories/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
   "/dashboard/cards/page": "app/dashboard/cards/page.js",
-  "/dashboard/cards/[id]/page": "app/dashboard/cards/[id]/page.js",
-  "/dashboard/accessories/page": "app/dashboard/accessories/page.js"
+  "/dashboard/referrals/page": "app/dashboard/referrals/page.js",
+  "/dashboard/contacts/page": "app/dashboard/contacts/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/dashboard/earnings/page": "app/dashboard/earnings/page.js"
 }
